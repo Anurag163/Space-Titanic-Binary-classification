@@ -1,2 +1,3 @@
-# Space-Titanic-Binary-classification
-Score-641/2211
+# Space-Titanic-Binary-classification- A Binary CLassiification challenge
+Rank -274/2217
+https://www.kaggle.com/competitions/spaceship-titanic
